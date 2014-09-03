@@ -1,0 +1,2 @@
+11:25:47|Info|RuntimeType.CreateInstanceSlow => RuntimeTypeHandle.CreateInstance => MainWindow..ctor|初始化MainWindow完成
+11:26:31|Info|Application.ShutdownImpl => Application.DoShutdown => MedicineTypeView.<.ctor>b__0|持久化种类配置文件完成
